@@ -1,0 +1,18 @@
+{
+  "name": "token_based_auth",
+  "version": "1.0.0",
+  "description": "This is nodejs JSON Web Tokens Authentication App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umer Inayat",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.9",
+    "mongoose": "^4.6.1",
+    "morgan": "^1.7.0"
+  }
+}
